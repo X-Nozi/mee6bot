@@ -157,5 +157,5 @@ client.on('guildCreate', (guild, member) => {
 
 
 
-  client.login("NzAxMjY5ODI2MzAzMjk1NDk5.XpvCiA.9HE0dyypN7-rAhrN309Vf4DQ55g")
+  client.login(TOKEN)
 
